@@ -11,6 +11,18 @@ basic_setup.py demonstrates how to:
 - Prepare documents for processing with RecursiveCharacterTextSplitter
 - Log input queries and AI responses for record-keeping.
 
+moderation_setup.py demonstrates how to:
+- Configure and use the OpenAI API for content moderation
+- Define a function to send text to the OpenAI moderation API and interpret the response
+- Evaluate text to determine if it violates OpenAI's content policies using the moderation API
+- Parse and display detailed moderation results, including flagged status and category scores
+- Handle network and API request errors gracefully
+- Test moderation function with sample text input
+
+
+
+
+
 
 
 
