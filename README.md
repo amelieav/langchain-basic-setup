@@ -1,6 +1,6 @@
 # Langchain basic setup
 
-basic_setup.py demonstrates how to:
+### basic_setup.py demonstrates how to:
 - Load environment variables from a .env file for secure access to API keys
 - Use OpenAI's API using ChatOpenAI from LangChain
 - Construct structured AI prompts using ChatPromptTemplate
@@ -11,7 +11,7 @@ basic_setup.py demonstrates how to:
 - Prepare documents for processing with RecursiveCharacterTextSplitter
 - Log input queries and AI responses for record-keeping.
 
-moderation_setup.py demonstrates how to:
+### moderation_setup.py demonstrates how to:
 - Configure and use the OpenAI API for content moderation
 - Define a function to send text to the OpenAI moderation API and interpret the response
 - Evaluate text to determine if it violates OpenAI's content policies using the moderation API
