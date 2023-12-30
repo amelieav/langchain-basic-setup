@@ -1,5 +1,11 @@
 # Langchain basic setup
 
+### If cloning for use:
+- remember to add your own .env file
+- pip install all the libraries shown in requirements.txt `pip install -r requirements.txt`
+
+
+
 ### basic_setup.py demonstrates how to:
 - Load environment variables from a .env file for secure access to API keys
 - Use OpenAI's API using ChatOpenAI from LangChain
