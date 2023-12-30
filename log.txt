@@ -1,0 +1,24 @@
+Input: What do puppies have in common with langsmith?
+Response: Based on the provided context, there is no mention of puppies or any connection between puppies and LangSmith. Therefore, there is no information to suggest that puppies have anything in common with LangSmith.
+
+
+Input: What are the main differences between java and c#?
+Response: The provided context does not contain any information about the main differences between Java and C#.
+
+
+
+Input: What are the critical points mentioned about Langsmith?
+Response: The critical points mentioned about LangSmith are:
+1. LangSmith simplifies the initial setup of LLM applications.
+2. LangSmith provides tracing functionality that logs all calls to LLMs, chains, agents, tools, and retrievers.
+3. LangSmith helps in debugging LLMs, chains, and agents by providing visibility into the exact input and output of LLM calls.
+4. LangSmith offers a playground feature that allows users to modify prompts and observe the resulting changes to the output.
+5. LangSmith provides visibility into the exact sequence of events in complicated chains and agents.
+6. LangSmith can be used for monitoring the application in production, logging all traces, visualizing latency and token usage statistics, and troubleshooting specific issues.
+7. LangSmith allows the association of feedback programmatically with runs, enabling performance tracking and identification of underperforming data points.
+8. LangSmith facilitates the exporting of curated datasets for use in other contexts.
+9. LangSmith simplifies dataset uploading and makes it easy to test changes to prompts or chains by running the chain over the data points and visualizing the outputs.
+10. LangSmith offers evaluators and annotation queues for human evaluation and review of runs, allowing assessment of subjective qualities and validation of automatic evaluation metrics.
+
+
+
