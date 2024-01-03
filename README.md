@@ -26,8 +26,10 @@
 - Test moderation function with sample text input
 
 
-
-
+### q&a-main.py demonstrates how to:
+- Read and process excel files with pandas
+- Generate output for inputs from excel sheets
+- Save generated outputs to excel sheet
 
 
 
